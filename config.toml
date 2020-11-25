@@ -1,4 +1,4 @@
-baseURL = "https://altinn.github.io/altinndigital.no/"
+baseURL = "/"
 languageCode = "nb"
 defaultContentLanguage = "nb"
 
