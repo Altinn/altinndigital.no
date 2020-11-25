@@ -3,24 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>veikart.altinndigital.no/_header/</loc>
+    <loc>https://altinn.github.io/altinndigital.no/_header/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>veikart.altinndigital.no/</loc>
+    <loc>https://altinn.github.io/altinndigital.no/</loc>
   </url>
   
   <url>
-    <loc>veikart.altinndigital.no/categories/</loc>
+    <loc>https://altinn.github.io/altinndigital.no/categories/</loc>
   </url>
   
   <url>
-    <loc>veikart.altinndigital.no/credits/</loc>
+    <loc>https://altinn.github.io/altinndigital.no/credits/</loc>
   </url>
   
   <url>
-    <loc>veikart.altinndigital.no/tags/</loc>
+    <loc>https://altinn.github.io/altinndigital.no/tags/</loc>
   </url>
   
 </urlset>

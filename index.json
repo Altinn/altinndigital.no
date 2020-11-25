@@ -1,34 +1,34 @@
 [
 {
-	"uri": "veikart.altinndigital.no/_header/",
+	"uri": "https://altinn.github.io/altinndigital.no/_header/",
 	"title": "",
 	"tags": [],
 	"description": "",
 	"content": "docs\n"
 },
 {
-	"uri": "veikart.altinndigital.no/",
+	"uri": "https://altinn.github.io/altinndigital.no/",
 	"title": "Altinn 3 – fremtidens verktøy for digitale tjenester",
 	"tags": [],
 	"description": "Velkommen til den nye generasjonen selvbetjent utviklings- og kjøremiljø for sammenhengende digitale tjenester. En løsning som dekker behovet for dataflyt mellom myndighetsutøvere, virksomheter og privatpersoner.",
 	"content": "Ta kontroll over egne tjenester \rMed Altinn 3 kan du selv definere datamodell. Det vil si at du kan definere hvilke data som trengs i saksbehandling, samt hvilke format du ønsker å motta dataene i. Du kan lage relevante brukergrensesnitt og se hvordan disse vises i nettleser, og selvfølgelig også hvordan de kommuniserer med andre systemer.\nDu setter opp den relevante tjenesteflyten for din tjeneste, og definerer hvilke steg brukeren skal gjennom i tjenesten. Underveis kan du teste løsningen, og med Altinn 3 skal du være rustet til å produksjonssette tjenesten på egenhånd. Du får tilgang til alle data som hentes inn. Og, skulle du trenge støtte er vi der for deg!\nDe beste tjenestene til brukerne \rFå tilgang til en multikanal-løsning som tilrettelegger både for nettleser og systemer hos virksomheter. Slipp utfylling av eksisterende data med et system som er tilrettelagt for gjenbruk, og kom et skritt nærmere Once Only-prinsippet.\nNår vi lager sammenhengende tjenester som faktisk virker, slipper brukeren å bli sendt mellom ulike tjenester. Målet er at brukeren ikke skal vite at det er flere tjenester som er koblet sammen for å dekke behovene. De møter et gjenkjennbart design på tvers av etater hvor de kan ha tillit til at data lagres på et trygt og forsvarlig vis. I Altinn 3 ligger det til rette for å lage tjenester i responsivt design, og det dekker selvfølgelig alle krav til teknisk universell utforming.\nDet er mange ulike behov, og vi vet at det ikke er mulig å tvinge alle inn i standarder. Derfor har vi lagt stor vekt på fleksibilitet. Og med fleksibilitet følger ulikt behov for ytelse. Dette tilpasser vi for, slik at dine brukere slipper å sitte og vente på at tjenesten skal fungere.\nHva kan du gjøre nå og hva vil komme på sikt?\rVi jobber smidig når vi utvikler Altinn 3. Det betyr at vi utvikler det som gir størst verdi først, lærer og justerer oss underveis og tilpasser oss brukernes behov.\n\r2021 — Dette planlegger vi lansert i løpet av våren \rTjenester: Fleksible, modernisterte og tilgjengelige \rInstanser som ikke legges til arkiv, Myke valideringer hvor bruker får advarsel, men ikke hindres ikke innsending. Signering av innsendte data og støtte for sidestilte elementer\nMeldinger: Mulighetene i innboks utvides \rHar du savnet muligheten for utvidet fritekstsøk i innboks? Nå kommer det! I tillegg til å søke på tema og overskrifter utvider vi søket til å også gjelde innhold i meldinger og tjenester. I tillegg vil du få mulighet til å lage kopier, og det blir en forbedring av statusvisninger i innboks slik at brukerne bedre forstår hvor de er i prosessen, hvem de venter på og hva som gjenstår.\nSamenhengende tjenster: flere muligheter\rAutorisasjonkomponenten fra altinn 2 blir tilgjengelig for altinn 3. Hendelsesbaserte tjenester: Push av hendelser/events Tilgjengeliggjøre eFormidling som mulig grensesnitt for push av data.\nHar du andre behov? Melde i fra på slack\rAltinn studio: Enklere å lage tjenester for utviklere\rHvis du er utvikler er Altinn 3 betydelig enklere og mer effektivt å jobbe med enn tidligere. Vi bruker kjent, moderne teknologi, baserer oss på lagring i skyen og har innebygd onboarding.\nFra Altinns innbyggerundersøkelse\r\r\rHva skal Altinn bli på sikt? — Altinn er nødvendig for å utvikle sammenhengende offentlige tjenester, og det er den posisjonen vi skal bli tydeligere på fremover. Vi skal ta ansvar og plass der det er nødvendig og være tilretteleggere når det ganger brukerne\r\r\r95%\r\r95% av alle i Norge kjenner til Altinn og 62% ønsker å finne dine tjenester der. Fra Altinns innbyggerundersøkelse\r\r\r\r\r\r2021 - 2023 — Dette planlegger vi fremover\r\rTjenester: Avansert funksjonalitet\rLorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem fugiat iste nihil magnam enim, harum officiis itaque dolorum laboriosam eligendi id cum aut autem! Facilis consectetur sapiente laudantium quod provident?\rOverskrift\rLorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem fugiat iste nihil magnam enim, harum officiis itaque dolorum laboriosam eligendi id cum aut autem! Facilis consectetur sapiente laudantium quod provident?\r\rAndre kolonne kan inneholde diagram eller medieboks med video/bilde.\r\r62%\r\r62% av alle i Norge ønsker å finne dine tjenester i Altinn. Fra Altinns innbyggerundersøkelse\r\r\r\r\r\r2023 — Ferdigstilling av Altinn 3\r\rTjenester: Avansert funksjonalitet\rLorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem fugiat iste nihil magnam enim, harum officiis itaque dolorum laboriosam eligendi id cum aut autem! Facilis consectetur sapiente laudantium quod provident?\rOverskrift\rLorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem fugiat iste nihil magnam enim, harum officiis itaque dolorum laboriosam eligendi id cum aut autem! Facilis consectetur sapiente laudantium quod provident?\r\r\r\r\r\r"
 },
 {
-	"uri": "veikart.altinndigital.no/categories/",
+	"uri": "https://altinn.github.io/altinndigital.no/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "veikart.altinndigital.no/credits/",
+	"uri": "https://altinn.github.io/altinndigital.no/credits/",
 	"title": "Kred",
 	"tags": [],
 	"description": "Hyllest",
 	"content": "Vi i Altinn benytter Hugo for å generere opp hele dokumentasjonen med søk som en statisk web site.\nDet hele tar typisk noen sekunder. Hugo er åpen kildekode i tillegg til å være lynrask. Anbefales.\nFor søk benyttes lunr.js.\nSom tema benytter vi docDock. Stor takk til Valere JEANTET.\nReveal.js er et fantastisk rammeverk for presentasjoner på web. Takk til Hakim El Hattab.\n"
 },
 {
-	"uri": "veikart.altinndigital.no/tags/",
+	"uri": "https://altinn.github.io/altinndigital.no/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",
