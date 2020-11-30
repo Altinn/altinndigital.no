@@ -28,21 +28,6 @@ $("#mobilesearch-submit").click( function() {
     window.open(url, "_self");
 });
 
-// Search inside altinndigital > documentation
-var input = document.getElementById("searchdocumentation");
-input.addEventListener("keyup", function(event) {
-    if (event.keyCode === 13) {
-        event.preventDefault();
-        document.getElementById("searchdocumentation-submit").click();
-    }
-});
-
-$("#searchdocumentation-submit").click( function() {
-    var url = "https://www.altinndigital.no/sok/?query=" + $("#searchdocumentation").val() + "&filters=documentation_20&pageNumber=0";
-    window.open(url, "_self");
-});
-
-
 // Search from footer
 
 var input = document.getElementById("text-input-search-footer");
