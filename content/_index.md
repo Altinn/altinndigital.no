@@ -31,7 +31,7 @@ Det er mange ulike behov, og vi vet at det ikke er mulig å tvinge alle inn i st
         2021 — Dette planlegger vi lansert i løpet av våren 
       </h2>
       <div class="row">
-        <div class="col-sm-12 col-lg-6 pr-xl-8">
+        <div class="col-sm-12 col-md-6 pr-xl-8">
           <h3 class="a-h4">Tjenester: Fleksible, modernisterte og tilgjengelige </h3>
           <p>Instanser som ikke legges til arkiv, Myke valideringer hvor bruker får advarsel, men ikke hindres ikke innsending. Signering av innsendte data og støtte for sidestilte elementer</p>
           <h3 class="a-h4">Meldinger: Mulighetene i innboks utvides </h3>
@@ -43,13 +43,14 @@ Det er mange ulike behov, og vi vet at det ikke er mulig å tvinge alle inn i st
           <p>Hvis du er utvikler er Altinn 3 betydelig enklere og mer effektivt å jobbe med enn tidligere. Vi bruker kjent, moderne teknologi, baserer oss på lagring i skyen og har innebygd onboarding.</p>
           <a href="">Fra Altinns innbyggerundersøkelse</a>
         </div>
-        <div class="col-sm-12 col-lg-6 pt-2">
+        <div class="col-sm-12 col-md-6 pt-2">
           <div class="pb-4">
             <div class="w-100">
-              <img src="bilde_veikart.png" class="w-100" alt="Fotografi av en dame">
+              <img src="CathrineHolten.jpg" alt="Portrett av Cathrine Holten">
             </div>
-             <div class="a-mediaBox-text a-bgGreenLight p-2">
-              <b>Hva skal Altinn bli på sikt?</b> <br>— Altinn er nødvendig for å utvikle sammenhengende offentlige tjenester, og det er den posisjonen vi skal bli tydeligere på fremover. Vi skal ta ansvar og plass der det er nødvendig og være tilretteleggere når det ganger brukerne
+            <div class="a-mediaBox-text a-bgGreenLight p-2">
+              <p><b>Hva skal Altinn bli på sikt?</b> <br>— Altinn er nødvendig for å utvikle sammenhengende offentlige tjenester, og det er den posisjonen vi skal bli tydeligere på fremover. Vi skal ta ansvar og plass der det er nødvendig og være tilretteleggere når det ganger brukerne</p>
+              <p class="a-fontSizeXS">Cathrine Holten, Avdelingsdirektør Digitaliseringsdirektoratet</p>
             </div>
           </div>
           <div class="row a-pie-wrapper">
@@ -69,14 +70,19 @@ Det er mange ulike behov, og vi vet at det ikke er mulig å tvinge alle inn i st
         2021 - 2023 — Dette planlegger vi fremover
       </h2>
       <div class="row">
-        <div class="col-sm-12 col-lg-6 pr-xl-8">
+        <div class="col-sm-12 col-md-6 pr-xl-8">
           <h3 class="a-h4">Tjenester: Avansert funksjonalitet</h3>
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem fugiat iste nihil magnam enim, harum officiis itaque dolorum laboriosam eligendi id cum aut autem! Facilis consectetur sapiente laudantium quod provident?
           <h3 class="a-h4">Overskrift</h3>
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem fugiat iste nihil magnam enim, harum officiis itaque dolorum laboriosam eligendi id cum aut autem! Facilis consectetur sapiente laudantium quod provident?
         </div>
-        <div class="col-sm-12 col-lg-6 pt-4">
-           <div class="a-mediaBox-text a-bgBlueLighter p-2 mb-2">
+        <div class="col-sm-12 col-md-6 pt-4">
+            <div class="w-100">
+              <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/321453780" allowfullscreen></iframe>
+              </div>
+            </div>
+            <div class="a-mediaBox-text a-bgBlueLighter p-2 mb-2">
               Andre kolonne kan inneholde diagram eller medieboks med video/bilde.
             </div>
             <div class="row a-pie-wrapper text-xs-center">

@@ -1731,11 +1731,27 @@ LIGHT HEADER
 TIMELINE * Should be moved to designsystem-css 
 */
 
+.a-timeline ul.connected-bullets li {
+    padding-left: 0px;
+}
+
+@media (min-width: 768px) {
+    .a-timeline {
+        padding-left: 12px
+    }
+    .a-timeline ul.connected-bullets li {
+        padding-left: 36px;
+    }
+}
+
 @media (min-width: 992px) {
     .a-timeline {
         width: calc( 100% + 308px);
         margin-left: -124px;
         padding-left: 60px
+    }
+    .a-timeline ul.connected-bullets li {
+        padding-left: 0px;
     }
 }
 
@@ -1743,6 +1759,9 @@ TIMELINE * Should be moved to designsystem-css
     .a-timeline {
         width: calc( 100% + 368px);
         margin-left: -184px;
+    }
+    .a-timeline ul.connected-bullets li {
+        padding-left: 36px;
     }
 }
 
@@ -1758,9 +1777,32 @@ TIMELINE * Should be moved to designsystem-css
     left: -62px;
 }
 
+@media (min-width: 768px) {
+    .a-timeline ul.connected-bullets-headings li::after {
+        left: -12px;
+    }
+}
+@media (min-width: 992px) {
+    .a-timeline ul.connected-bullets-headings li::after {
+        left: -62px;
+    }
+}
+
 .a-timeline ul.connected-bullets-headings li::before {
     top: 8px;
     left: -51px;
+}
+
+@media (min-width: 768px) {
+    .a-timeline ul.connected-bullets-headings li::before {
+        left: 0px;
+    }
+}
+
+@media (min-width: 992px) {
+    .a-timeline ul.connected-bullets-headings li::before {
+        left: -51px;
+    }
 }
 
 .a-timeline ul.connected-bullets-headings h2 {
@@ -1823,6 +1865,10 @@ p.a-fontSizeXL {
     p.a-fontSizeXL {
         font-size: 28px;
     }
+}
+
+p.a-fontSizeXS {
+    font-size: 16px;
 }
 
 /**
