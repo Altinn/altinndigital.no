@@ -1705,6 +1705,14 @@ LIGHT HEADER
     border: 3px solid #0062BA;
 }
 
+.a-headerLight .a-globalNav .navbar-toggler:focus {
+   outline: 0;
+}
+
+.a-globalNav .navbar-toggler[data-jsexpanded='true'] {
+    color: #FFFFFF;
+}
+
 @media (min-width: 768px) {
     .a-header.a-headerLight a,
     .a-headerLight .a-globalNav-main li a,
@@ -1724,6 +1732,13 @@ LIGHT HEADER
     .a-headerLight .adocs-toggle-search {
         color: #0062BA;
     }
+}
+
+.a-header-options .nav-link:active, 
+.a-header-options .nav-link:focus, 
+.adocs-toggle-search:focus, 
+.adocs-toggle-search:active {
+    color: #0062BA;
 }
 
 
