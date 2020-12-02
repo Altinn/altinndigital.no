@@ -19,7 +19,7 @@ Når vi lager sammenhengende tjenester som faktisk virker, slipper brukeren å b
 Det er mange ulike behov, og vi vet at det ikke er mulig å tvinge alle inn i standarder. Derfor har vi lagt stor vekt på fleksibilitet. Og med fleksibilitet følger ulikt behov for ytelse. Dette tilpasser vi for, slik at dine brukere slipper å sitte og vente på at tjenesten skal fungere. 
 
 <div class="a-rowFullWidth pt-2">
-  <h2 class="a-fontBold a-blueDarkerText">Hva kan du gjøre nå og hva vil komme på sikt?</h2>
+  <h2 class="a-fontBold a-blueDarkerText">Hva kan du gjøre nå, og hvordan blir det på sikt?</h2>
   <p class="a-fontSizeXL a-blueDarkerText">Vi jobber smidig når vi utvikler Altinn 3. Det betyr at vi utvikler det som gir størst verdi først, lærer og justerer oss underveis og tilpasser oss brukernes behov.</p>
 </div>
 
@@ -28,20 +28,19 @@ Det er mange ulike behov, og vi vet at det ikke er mulig å tvinge alle inn i st
   <ul class="no-decoration connected-bullets connected-bullets-headings">
     <li class="false">
       <h2 class="a-fontBold a-blueDarkerText">
-        2021 — Dette planlegger vi lansert i løpet av våren 
+        2021 — Dette jobber vi med i løpet av våren 
       </h2>
       <div class="row">
         <div class="col-sm-12 col-md-6 pr-xl-8">
-          <h3 class="a-h4">Tjenester: Fleksible, modernisterte og tilgjengelige </h3>
+          <h3 class="a-h4">Fleksible, modernisterte og tilgjengelige tjenester</h3>
           <p>Instanser som ikke legges til arkiv, Myke valideringer hvor bruker får advarsel, men ikke hindres ikke innsending. Signering av innsendte data og støtte for sidestilte elementer</p>
-          <h3 class="a-h4">Meldinger: Mulighetene i innboks utvides </h3>
-          <p>Har du savnet muligheten for utvidet fritekstsøk i innboks? Nå kommer det! I tillegg til å søke på tema og overskrifter utvider vi søket til å også gjelde innhold i meldinger og tjenester. I tillegg vil du få mulighet til å lage kopier, og det blir en forbedring av statusvisninger i innboks slik at brukerne bedre forstår hvor de er i prosessen, hvem de venter på og hva som gjenstår.</p>
-          <h3 class="a-h4">Samenhengende tjenster: flere muligheter</h3>
-          <p>Autorisasjonkomponenten fra altinn 2 blir tilgjengelig for altinn 3. Hendelsesbaserte tjenester: Push av hendelser/events  Tilgjengeliggjøre eFormidling som mulig grensesnitt for push av data.</p>
-          <a href="">Har du andre behov? Melde i fra på slack</a>
-          <h3 class="a-h4 pt-1">Altinn studio: Enklere å lage tjenester for utviklere</h3>
-          <p>Hvis du er utvikler er Altinn 3 betydelig enklere og mer effektivt å jobbe med enn tidligere. Vi bruker kjent, moderne teknologi, baserer oss på lagring i skyen og har innebygd onboarding.</p>
-          <a href="">Fra Altinns innbyggerundersøkelse</a>
+          <h3 class="a-h4">Mulighetene i innboks utvides</h3>
+          <p>Har du savnet muligheten for utvidet fritekstsøk i innboks? Nå kommer det! I tillegg til å søke på tema og overskrifter utvider vi søket til å også gjelde innhold i meldinger og tjenester. Du får også mulighet til å lage kopier, og det blir en forbedring av statusvisninger i innboks. Da forstår brukerne bedre hvor de er i prosessen, hvem de venter på og hva som gjenstår.</p>
+          <h3 class="a-h4">Sammenhengende tjenester – enda flere muligheter</h3>
+          <p>Nå tar vi med autorisasjonkomponenten fra altinn 2 og gjør den tilgjengelig for altinn 3. Vi tilgjengeliggjør eFormidling som mulig grensesnitt for push av data. I tillegg kommer hendelsesbaserte tjenester. Det vil si Push av hendelser og events.</p>
+          <a href="https://altinnstudio.slack.com/">Har du andre behov? Snakk med oss på slack</a>
+          <h3 class="a-h4 pt-1">Enklere og mer effektivt for utviklere</h3>
+          <p>For utviklerne er Altinn 3 og Altinn studio betydelig enklere og mer effektivt å jobbe med enn tidligere. Der vil utviklerne møte kjent, moderne teknologi, og onboarding er innebygd. Og selvfølgelig baserer vi oss på lagring i skyen!</p>
         </div>
         <div class="col-sm-12 col-md-6 pt-2">
           <div class="pb-4">
@@ -59,7 +58,7 @@ Det er mange ulike behov, og vi vet at det ikke er mulig å tvinge alle inn i st
             </div>
             <div class="col-xs-12 col-sm-8">
               <p class="a-fontSizeXL">95% av alle i Norge kjenner til Altinn og 62% ønsker å finne dine tjenester der. </p>
-              <a href="">Fra Altinns innbyggerundersøkelse</a>
+              Fra Altinns innbyggerundersøkelse
             </div>
           </div>
         </div>
@@ -71,42 +70,26 @@ Det er mange ulike behov, og vi vet at det ikke er mulig å tvinge alle inn i st
       </h2>
       <div class="row">
         <div class="col-sm-12 col-md-6 pr-xl-8">
-          <h3 class="a-h4">Tjenester: Avansert funksjonalitet</h3>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem fugiat iste nihil magnam enim, harum officiis itaque dolorum laboriosam eligendi id cum aut autem! Facilis consectetur sapiente laudantium quod provident?
-          <h3 class="a-h4">Overskrift</h3>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem fugiat iste nihil magnam enim, harum officiis itaque dolorum laboriosam eligendi id cum aut autem! Facilis consectetur sapiente laudantium quod provident?
+          <h3 class="a-h4">Forbedring av Altinn studio</h3>
+          For å gjøre det enda enklere for utviklerne, skal vi lage støtte for å bruke egne elementer og komponenter i Altinn studio. Vi tilrettelegger også for «pick and mix», slik at man enkelt kan låne og gjenbruke fra andre tjenester.  I tillegg kommer det en ny og forbedret versjon av forsiden og dashboardet. 
+          <h3 class="a-h4">Autentisering og autorisasjon</h3>
+          Her planlegger vi støtte for delegering på app-nivå og på instansnivå.
+          <h3 class="a-h4">Forbedret infrastruktur </h3>
+          I dag har infrastrukturen fungerende backup og restore for sluttbrukertjenestedata. Men hvorfor stoppe der? Vi skal blant annet sørge for backup av alle data i Altinn studio og virusscanning av brukernes vedlegg. Og alle dere som er tjenesteeiere vil få tilgang på data for monitorering og analyse. 
+          <h3 class="a-h4">Forbedret infrastruktur </h3>
+          I dag har infrastrukturen fungerende backup og restore for sluttbrukertjenestedata. Men hvorfor stoppe der? Vi skal blant annet sørge for backup av alle data i Altinn studio og virusscanning av brukernes vedlegg. Og alle dere som er tjenesteeiere vil få tilgang på data for monitorering og analyse. 
         </div>
-        <div class="col-sm-12 col-md-6 pt-4">
-            <div class="w-100">
-              <div class="embed-responsive embed-responsive-16by9">
-                <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/321453780" allowfullscreen></iframe>
-              </div>
-            </div>
-            <div class="a-mediaBox-text a-bgBlueLighter p-2 mb-2">
-              Andre kolonne kan inneholde diagram eller medieboks med video/bilde.
-            </div>
-            <div class="row a-pie-wrapper text-xs-center">
-            <div class="col-xs-12 col-sm-4">
-              <div class="a-pie">62%</div>
-            </div>
-            <div class="col-xs-12 col-sm-8">
-              <p class="a-fontSizeXL">62% av alle i Norge ønsker å finne dine tjenester i Altinn. </p>
-              <a href="">Fra Altinns innbyggerundersøkelse</a>
-            </div>
-          </div>
+        <div class="col-sm-12 col-lg-6 pt-4">
         </div>
       </div>
     </li>
     <li class="false">
       <h2 class="a-fontBold a-blueDarkerText">
-        2023 — Ferdigstilling av Altinn 3
+        2023 — Hva skal Altinn 3 bli til slutt?
       </h2>
       <div class="row">
         <div class="col-sm-12 col-lg-6 pr-xl-8">
-          <h3 class="a-h4">Tjenester: Avansert funksjonalitet</h3>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem fugiat iste nihil magnam enim, harum officiis itaque dolorum laboriosam eligendi id cum aut autem! Facilis consectetur sapiente laudantium quod provident?
-          <h3 class="a-h4">Overskrift</h3>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem fugiat iste nihil magnam enim, harum officiis itaque dolorum laboriosam eligendi id cum aut autem! Facilis consectetur sapiente laudantium quod provident?
+          Vel, plattformen til Altinn skal aldri bli ferdig. Vi fortsetter å basere oss på brukerbehov og innsikt, og vi lærer, utvikler og tilpasser oss etter hvert. Behov vil endre seg – og det vil vi også. Sammen med deg som tjenesteeier skal vi sørge for at Altinn 3 blir – og fortsetter å være – det beste verktøyet for å utvikle sammenhengende digitale tjenester.
         </div>
         <div class="col-sm-12 col-lg-6">
         </div>
