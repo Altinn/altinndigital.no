@@ -54,10 +54,10 @@ Det er mange ulike behov, og vi vet at det ikke er mulig å tvinge alle inn i st
             </div>
           </div>
           <div class="row a-pie-wrapper">
-            <div class="col-xs-12 col-sm-4">
+            <div class="col-xs-12 col-sm-4 text-center text-sm-left">
               <div class="a-pie">95%</div>
             </div>
-            <div class="col-xs-12 col-sm-8">
+            <div class="col-xs-12 col-sm-8 text-center text-sm-left">
               <p class="a-fontSizeXL">95% av alle i Norge kjenner til Altinn og 59% ønsker å finne dine tjenester der. </p>
               Fra Altinns innbyggerundersøkelse
             </div>
@@ -90,7 +90,7 @@ Det er mange ulike behov, og vi vet at det ikke er mulig å tvinge alle inn i st
         2024 — Hva skal Altinn 3 bli til slutt?
       </h2>
       <div class="row">
-        <div class="col-sm-12 col-lg-9 pr-xl-8">
+        <div class="col-sm-12 col-md-9 pr-xl-8">
           Vel, vi tenker plattformen til Altinn aldri skal bli ferdig. Med dette mener vi at vi fortsetter å basere oss på brukerbehov og innsikt, og at vi lærer, utvikler og tilpasser oss etter hvert. Behov vil endre seg – og det vil vi også. Sammen med deg som tjenesteeier skal vi sørge for at Altinn 3 blir – og fortsetter å være – det beste verktøyet for å utvikle sammenhengende digitale tjenester!
         </div>
         <div class="col-sm-12 col-lg-3">
