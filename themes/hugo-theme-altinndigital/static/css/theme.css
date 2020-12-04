@@ -1211,7 +1211,7 @@ figure a[href^=http]:not([href*='altinn.no']):not([href*='basefarm.net']):not([h
 
 /* Grid adjustments */
 @media (max-width: 991px) {
-    .container {
+    .a-header .container {
         max-width: none;
     }
     .a-header {
