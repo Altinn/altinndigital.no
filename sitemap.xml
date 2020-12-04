@@ -3,24 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/altinndigital.no/_header/</loc>
+    <loc>altinndigital.no/_header/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/altinndigital.no/</loc>
+    <loc>altinndigital.no/</loc>
   </url>
   
   <url>
-    <loc>/altinndigital.no/categories/</loc>
+    <loc>altinndigital.no/categories/</loc>
   </url>
   
   <url>
-    <loc>/altinndigital.no/credits/</loc>
+    <loc>altinndigital.no/credits/</loc>
   </url>
   
   <url>
-    <loc>/altinndigital.no/tags/</loc>
+    <loc>altinndigital.no/tags/</loc>
   </url>
   
 </urlset>
