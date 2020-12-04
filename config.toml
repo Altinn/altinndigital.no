@@ -1,4 +1,4 @@
-baseURL = "/altinndigital.no/"
+baseURL = "altinndigital.no"
 languageCode = "nb"
 defaultContentLanguage = "nb"
 
