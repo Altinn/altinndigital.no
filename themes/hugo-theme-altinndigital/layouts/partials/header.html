@@ -53,7 +53,7 @@
     <div class="adocs-scrollcontainer">
 
       <div class="row">
-        <div class="col-sm-12">
+        <div id="content" class="col-sm-12">
           <h1 class="a-fontBold a-blueDarkerText">
             {{.Title}}
             {{if .Params.titleSup }}
@@ -68,7 +68,7 @@
         <div class="col-sm-12 col-lg-8 offset-lg-2 a-text mb-5 mb-sm-6">
 
           <section id="body">
-            <div id="content" class="js-moveChildrenTo">
+            <div class="js-moveChildrenTo">
               <div id="overlay"></div>
               <div class="a-text">
                 {{if not .IsHome}}
