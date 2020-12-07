@@ -54,7 +54,7 @@ if(host != "localhost")
   <nav class="a-jumpnav">
   <ul class="no-decoration d-flex">
     <li><a class="sr-only sr-only-focusable" href="#content">Hopp til hovedinnholdet</a></li>
-    <li><a class="sr-only sr-only-focusable" href="#docsmenu">Hopp til meny</a></li>
+    <li><a class="sr-only sr-only-focusable" href="#primary-nav">Hopp til meny</a></li>
   </ul>
 </nav>
 
@@ -144,7 +144,7 @@ if(host != "localhost")
 
 <div id="collapseSearchContent" class="a-collapseContent adocs-collapseSearch collapse">
   <div class="a-collapseContent-inside px-0">
-    <div class="bg-white pt-3 pb-3">
+    <div class="pt-3 pb-3">
       <div class="container">
         <div class="row arrow-tr">
           <div class="col-sm-8 offset-sm-2 col-lg-6 offset-lg-3">
@@ -175,7 +175,7 @@ if(host != "localhost")
     <div class="adocs-scrollcontainer">
 
       <div class="row">
-        <div class="col-sm-12">
+        <div id="content" class="col-sm-12">
           <h1 class="a-fontBold a-blueDarkerText">
             Tags
             
@@ -188,7 +188,7 @@ if(host != "localhost")
         <div class="col-sm-12 col-lg-8 offset-lg-2 a-text mb-5 mb-sm-6">
 
           <section id="body">
-            <div id="content" class="js-moveChildrenTo">
+            <div class="js-moveChildrenTo">
               <div id="overlay"></div>
               <div class="a-text">
                 
@@ -314,21 +314,17 @@ if(host != "localhost")
                     <h1 class="an-footer-heading">Vil du vite mer?</h1>
                     <ul class="an-footer-contactLinks">
                         <li>
-                            <a href="https://github.com/Altinn/">
-                                <i class="fa fa-github" aria-hidden="true"></i>
-                                <span>GitHub</span>
+                            <a href="tel:75006299">
+                                <i class="ai ai-phone" aria-hidden="true"></i>
+                                <span>75 00 62 99</span>
                             </a>
                         </li>
                         <li>
-                            <a href="https://vimeo.com/digdir/">
-                                <i class="fa fa-vimeo" aria-hidden="true"></i>
-                                <span>Vimeo</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://altinn.slack.com/">
-                                <i class="fa fa-slack" aria-hidden="true"></i>
-                                <span>Slack</span>
+                            <a href="#" data-toggle="altinn-modal" data-action="load" data-url="/kontakt-oss/"
+                                data-target="#modal-singel">
+
+                                <i class="ai ai-send" aria-hidden="true"></i>
+                                <span>Kontakt oss</span>
                             </a>
                         </li>
                     </ul>
@@ -376,7 +372,8 @@ if(host != "localhost")
                             <a href="https://www.altinndigital.no/hjelp/">Hjelp</a>
                         </li>
                     </ul>
-                    <span class="an-footer-address">Digitaliseringsdirektoratet, Postboks 1382 Vika, 0114 Oslo. Org.nr. 991 825 827</span>
+                    <span class="an-footer-address">Digitaliseringsdirektoratet, Postboks 1382 Vika, 0114 Oslo. Org.nr.
+                        991 825 827</span>
                 </div>
             </div>
         </div>
