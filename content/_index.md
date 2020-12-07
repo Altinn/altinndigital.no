@@ -8,7 +8,7 @@ jumbotron: false
 
 Med Altinn 3 kan du selv definere datamodell. Det vil si at du kan definere hvilke data som trengs i saksbehandling, samt hvilke format du ønsker å motta dataene i. Du kan lage relevante brukergrensesnitt og se hvordan disse vises i nettleser, og selvfølgelig også hvordan de kommuniserer med andre systemer.
 
-Du setter opp den relevante tjenesteflyten for din tjeneste, og definerer hvilke steg brukeren skal gjennom i tjenesten. Underveis kan du teste løsningen, og med Altinn 3 skal du være rustet til å produksjonssette tjenesten på egenhånd. Du får tilgang til alle data som hentes inn. Og, skulle du trenge støtte er vi der for deg! ([altinnstudio.slack.com](https://altinnstudio.slack.com/))
+Du setter opp den relevante tjenesteflyten for din tjeneste, og definerer hvilke steg brukeren skal gjennom i tjenesten. Underveis kan du teste løsningen, og med Altinn 3 skal du være rustet til å produksjonssette tjenesten på egenhånd. Du får tilgang til alle data som hentes inn. Og, skulle du trenge støtte er vi der for deg!
 
 <h2 class="a-h3"> De beste tjenestene til brukerne </h2>
 
@@ -46,7 +46,7 @@ Det er mange ulike behov, og vi vet at det ikke er mulig å tvinge alle inn i st
         <div class="col-sm-12 col-md-6 pt-2">
           <div class="pb-4">
             <div class="w-100">
-              <img src="CathrineHolten.jpg" alt="Portrett av Cathrine Holten">
+              <img src="CatHolten_oktober2020_v2.jpg" alt="Portrett av Cathrine Holten">
             </div>
             <div class="a-mediaBox-text a-bgGreenLight p-2">
               <p>Alle som bor og jobber i Norge skal få fordelene digitaliseringen kan gi. Med fremtidens plattform for sammenhengende digitale tjenester på trappen, og ved å sette brukeren i sentrum, skal vi få til én digital offentlig sektor.</p>
