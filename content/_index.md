@@ -58,7 +58,7 @@ Det er mange ulike behov, og vi vet at det ikke er mulig å tvinge alle inn i st
               <div class="a-pie">95%</div>
             </div>
             <div class="col-xs-12 col-sm-8 text-center text-sm-left">
-              <p class="a-fontSizeXL">95% av alle i Norge kjenner til Altinn og 59% ønsker å finne dine tjenester der. </p>
+              <p class="a-fontSizeXL">95% av alle i Norge kjenner til Altinn og 59% ønsker å finne tjenestene dine der. </p>
               Fra Altinns innbyggerundersøkelse
             </div>
           </div>
@@ -97,6 +97,6 @@ Det er mange ulike behov, og vi vet at det ikke er mulig å tvinge alle inn i st
         </div>
       </div>
     </li>
-
+  </ul>
 </div>
 
